@@ -43,6 +43,7 @@ def facts():
 def _shuffle(array):
     shuffled_array = array
     shuffle(shuffled_array)
+
     return shuffled_array
 
 
